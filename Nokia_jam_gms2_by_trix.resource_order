@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Configurations","order":15,"path":"folders/Configurations.yy",},
+    {"name":"Extensions","order":13,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":8,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":12,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":10,"path":"folders/Objects.yy",},
+    {"name":"example","order":1,"path":"folders/Objects/example.yy",},
+    {"name":"Options","order":14,"path":"folders/Options.yy",},
+    {"name":"Paths","order":5,"path":"folders/Paths.yy",},
+    {"name":"Rooms","order":11,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":6,"path":"folders/Scripts.yy",},
+    {"name":"Shaders","order":7,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":4,"path":"folders/Sounds.yy",},
+    {"name":"Tile Sets","order":3,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":9,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"sndIntro","order":1,"path":"sounds/sndIntro/sndIntro.yy",},
+    {"name":"macros","order":1,"path":"scripts/macros/macros.yy",},
+    {"name":"init","order":2,"path":"scripts/init/init.yy",},
+    {"name":"nokia_play_sound","order":3,"path":"scripts/nokia_play_sound/nokia_play_sound.yy",},
+    {"name":"sleep","order":4,"path":"scripts/sleep/sleep.yy",},
+    {"name":"rmExample","order":1,"path":"rooms/rmExample/rmExample.yy",},
+  ],
+}
