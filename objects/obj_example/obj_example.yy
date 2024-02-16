@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "example",
+  "name": "obj_example",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,},
@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "example",
-    "path": "folders/Objects/example.yy",
+    "name": "Characters",
+    "path": "folders/Objects/Characters.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -30,7 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_player_base",
+    "path": "sprites/spr_player_base/spr_player_base.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

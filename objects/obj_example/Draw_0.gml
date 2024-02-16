@@ -1,3 +1,4 @@
+/*
 draw_clear(n_black);
 
 var _sh = shake;
@@ -34,6 +35,7 @@ draw_primitive_end();
 
 
 // horrible ghost
-draw_sprite(sprExample, 0,
+draw_sprite(spr_player_base, 0,
 	random_range(-_sh, _sh)/4 + GAMEWIDTH/2 + dcos(game.tick * 1.3)*16,
 	random_range(-_sh, _sh)/4 + GAMEHEIGHT/2 + dsin(game.tick * 4.4)*4);
+*/
