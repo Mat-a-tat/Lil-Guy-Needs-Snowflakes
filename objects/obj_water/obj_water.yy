@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_water_1",
-    "path": "sprites/spr_water_1/spr_water_1.yy",
+    "name": "spr_water",
+    "path": "sprites/spr_water/spr_water.yy",
   },
   "spriteMaskId": null,
   "visible": true,
