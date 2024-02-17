@@ -1,5 +1,10 @@
 nokia_play_sound(sndIntro);
 
-move_dir = 0;
-move_speed = 2;
-speed_perc = .3;
+grav = .1;
+hsp = 0;
+vsp = 0;
+hsp_walk = .5;  
+vsp_jump = -1.5;
+can_jump = 0;
+cyote_time = 10;
+size_mod = 1
