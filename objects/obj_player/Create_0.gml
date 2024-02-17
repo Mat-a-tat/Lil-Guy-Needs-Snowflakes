@@ -7,4 +7,5 @@ hsp_walk = .5;
 vsp_jump = -1.5;
 can_jump = 0;
 cyote_time = 10;
-size_mod = 1
+size_mod = 1;
+global.health = 100;

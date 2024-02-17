@@ -38,3 +38,11 @@ if (place_meeting(x, y + vsp, obj_wall))
 }
 
 y += vsp
+
+if (y > 100)
+{
+	global.health = 0;
+}
+
+show_debug_message("Y Cordinate {0}", y);
+show_debug_message("Health {0}", global.health);

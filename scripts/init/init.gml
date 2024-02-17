@@ -5,7 +5,7 @@ function init() {
 	// This is just to initialize stuff (like setting the window scale etc)
 
 	// Create the 'game' controller object
-	instance_create_depth(0, 0, 0, game);
+	instance_create_depth(0, 0, 0, obj_game);
 
 	var _upscale = 5; // How much bigger should the window be
 	window_set_size(GAMEWIDTH * _upscale, GAMEHEIGHT * _upscale);
