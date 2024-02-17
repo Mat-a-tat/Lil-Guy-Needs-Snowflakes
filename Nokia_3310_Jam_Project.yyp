@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.7",
-  "name": "Nokia_jam_gms2_by_trix",
+  "name": "Nokia_3310_Jam_Project",
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":2242152242467054,},
   ],
@@ -33,6 +33,7 @@
   },
   "resources": [
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"spr_player_concept3","path":"sprites/spr_player_concept3/spr_player_concept3.yy",},},
     {"id":{"name":"sndSmash","path":"sounds/sndSmash/sndSmash.yy",},},
     {"id":{"name":"spr_color_base4","path":"sprites/spr_color_base4/spr_color_base4.yy",},},
     {"id":{"name":"sndIntro","path":"sounds/sndIntro/sndIntro.yy",},},
@@ -42,8 +43,9 @@
     {"id":{"name":"init","path":"scripts/init/init.yy",},},
     {"id":{"name":"nokia_play_sound","path":"scripts/nokia_play_sound/nokia_play_sound.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
-    {"id":{"name":"spr_water_frozen","path":"sprites/spr_water_frozen/spr_water_frozen.yy",},},
+    {"id":{"name":"spr_player_concept1","path":"sprites/spr_player_concept1/spr_player_concept1.yy",},},
     {"id":{"name":"sleep","path":"scripts/sleep/sleep.yy",},},
+    {"id":{"name":"spr_player_concept2","path":"sprites/spr_player_concept2/spr_player_concept2.yy",},},
     {"id":{"name":"game","path":"objects/game/game.yy",},},
     {"id":{"name":"spr_player_base","path":"sprites/spr_player_base/spr_player_base.yy",},},
     {"id":{"name":"obj_example","path":"objects/obj_example/obj_example.yy",},},
