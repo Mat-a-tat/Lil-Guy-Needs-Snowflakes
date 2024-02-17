@@ -10,7 +10,7 @@ vsp += grav;
 if (can_jump --> 0) and (_keyjump)
 {
 	vsp = vsp_jump * size_mod;
-	can_jump = 0
+	can_jump = 0;
 }
 
 // Collision
@@ -37,7 +37,7 @@ if (place_meeting(x, y + vsp, obj_wall))
 	vsp = 0;
 }
 
-y += vsp
+y += vsp;
 
 if (y > 100)
 {
