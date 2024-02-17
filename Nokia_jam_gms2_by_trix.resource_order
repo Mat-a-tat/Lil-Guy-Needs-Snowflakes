@@ -8,8 +8,8 @@
     {"name":"Rooms","order":11,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":6,"path":"folders/Scripts.yy",},
     {"name":"Sounds","order":4,"path":"folders/Sounds.yy",},
-    {"name":"Water","order":1,"path":"folders/Sprites/Water.yy",},
     {"name":"Archieve","order":2,"path":"folders/Sprites/Archieve.yy",},
+    {"name":"Water","order":1,"path":"folders/Sprites/Water.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_ground","order":3,"path":"objects/obj_ground/obj_ground.yy",},
