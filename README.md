@@ -1,3 +1,3 @@
-# Nokia 3310 Jam Project
+# Ice Cube Game
 
-Core template project. Sets up the basic resolution, sound system, and fundemental bare bones input. 
+The start of our submission to the NOKIA-3310 JAM, featuring a lil' ice cube lad. 
