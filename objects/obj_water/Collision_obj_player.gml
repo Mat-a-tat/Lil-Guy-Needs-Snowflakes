@@ -3,8 +3,7 @@
 global.health += freeze_cost;
 if (global.health > 0)
 {
-	instance_destroy()
-	instance_create_layer(x, y, "Instances", obj_water_frozen);
+	instance_change(obj_water_frozen,true)
 }
 
 

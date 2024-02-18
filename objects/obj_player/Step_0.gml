@@ -30,11 +30,13 @@ x += hsp;
 // Vertical Movement
 for (i = 0; i < ds_list_size(solid_objects); i++) {
     if (place_meeting(x, y + vsp, solid_objects[| i])) {
-        // How ever long coyote time is
+        // How ever long coyote time is in create
         if (vsp > 0) can_jump = coyote_time;
         while (abs(vsp) > 0.1) {
             vsp *= 0.5;
             if (!place_meeting(x, y + vsp, solid_objects[| i])) y += vsp;
+			//this lets us jump even if we get stuck in objects
+			if (place_meeting(x, y, solid_objects[| i])) y += vsp;
         }
         vsp = 0;
     }
