@@ -1,6 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
-freeze_cost = -1
+// amount of health it costs to freeze something
+freeze_cost = -20
 freeze_range = .5
 
 
