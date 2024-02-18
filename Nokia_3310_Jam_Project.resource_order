@@ -11,18 +11,12 @@
     {"name":"Archieve","order":2,"path":"folders/Sprites/Archieve.yy",},
     {"name":"UI","order":3,"path":"folders/Sprites/UI.yy",},
     {"name":"Water","order":1,"path":"folders/Sprites/Water.yy",},
-    {"name":"spr_player","order":10,"path":"folders/Sprites/General/spr_player.yy",},
   ],
   "ResourceOrderSettings": [
-<<<<<<< Updated upstream
     {"name":"spr_end","order":1,"path":"sprites/spr_end/spr_end.yy",},
-=======
-    {"name":"spr_play_button","order":1,"path":"sprites/spr_play_button/spr_play_button.yy",},
-    {"name":"spr_player_idle","order":4,"path":"sprites/spr_player_idle/spr_player_idle.yy",},
->>>>>>> Stashed changes
     {"name":"obj_wall","order":3,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"rm_title","order":2,"path":"rooms/rm_title/rm_title.yy",},
-    {"name":"spr_player_concept3","order":2,"path":"sprites/spr_player_concept3/spr_player_concept3.yy",},
+    {"name":"spr_player_concept3","order":9,"path":"sprites/spr_player_concept3/spr_player_concept3.yy",},
     {"name":"spr_color_base4","order":3,"path":"sprites/spr_color_base4/spr_color_base4.yy",},
     {"name":"obj_exit","order":8,"path":"objects/obj_exit/obj_exit.yy",},
     {"name":"sndIntro","order":1,"path":"sounds/sndIntro/sndIntro.yy",},
@@ -34,24 +28,19 @@
     {"name":"obj_play_button","order":1,"path":"objects/obj_play_button/obj_play_button.yy",},
     {"name":"nokia_play_sound","order":3,"path":"scripts/nokia_play_sound/nokia_play_sound.yy",},
     {"name":"obj_player","order":4,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"spr_player_concept1","order":7,"path":"sprites/spr_player_concept1/spr_player_concept1.yy",},
     {"name":"sleep","order":4,"path":"scripts/sleep/sleep.yy",},
+    {"name":"spr_player_concept2","order":8,"path":"sprites/spr_player_concept2/spr_player_concept2.yy",},
     {"name":"spr_player_base","order":5,"path":"sprites/spr_player_base/spr_player_base.yy",},
     {"name":"obj_example","order":5,"path":"objects/obj_example/obj_example.yy",},
     {"name":"spr_backgroun_base","order":4,"path":"sprites/spr_backgroun_base/spr_backgroun_base.yy",},
     {"name":"spr_door","order":10,"path":"sprites/spr_door/spr_door.yy",},
     {"name":"obj_water_frozen","order":7,"path":"objects/obj_water_frozen/obj_water_frozen.yy",},
     {"name":"spr_ground","order":6,"path":"sprites/spr_ground/spr_ground.yy",},
-<<<<<<< Updated upstream
     {"name":"rm_credit","order":3,"path":"rooms/rm_credit/rm_credit.yy",},
     {"name":"obj_end","order":2,"path":"objects/obj_end/obj_end.yy",},
     {"name":"spr_base","order":2,"path":"sprites/spr_base/spr_base.yy",},
     {"name":"spr_odd_design","order":1,"path":"sprites/spr_odd_design/spr_odd_design.yy",},
-=======
-    {"name":"spr_player_concept","order":3,"path":"sprites/spr_player_concept/spr_player_concept.yy",},
-    {"name":"spr_base","order":2,"path":"sprites/spr_base/spr_base.yy",},
-    {"name":"spr_player_walk","order":5,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
-    {"name":"spr_water_old_1","order":1,"path":"sprites/spr_water_old_1/spr_water_old_1.yy",},
->>>>>>> Stashed changes
     {"name":"rm_level1","order":1,"path":"rooms/rm_level1/rm_level1.yy",},
   ],
 }
