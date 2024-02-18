@@ -14,27 +14,30 @@ if (can_jump --> 0) and (_keyjump)
 }
 
 // Collision
-if (place_meeting (x + hsp,y, obj_wall))
-{
-	while (abs(hsp) > 0.1)
-	{
-		hsp *= 0.5;
-		if (!place_meeting(x + hsp,y,obj_wall)) x += hsp;
-	}
-	hsp = 0;
+// Horizontal Movement
+var i;
+for (i = 0; i < ds_list_size(solid_objects); i++) {
+    if (place_meeting(x + hsp, y, solid_objects[| i])) {
+        while (abs(hsp) > 0.1) {
+            hsp *= 0.5;
+            if (!place_meeting(x + hsp, y, solid_objects[| i])) x += hsp;
+        }
+        hsp = 0;
+    }
 }
 x += hsp;
 
-if (place_meeting(x, y + vsp, obj_wall))
-{
-	// how ever long coyote time is
-	if (vsp > 0) can_jump = cyote_time;
-	while (abs(vsp) > 0.1)
-	{
-		vsp *= 0.5;
-		if (!place_meeting(x, y + vsp, obj_wall)) y += vsp;
-	}
-	vsp = 0;
+// Vertical Movement
+for (i = 0; i < ds_list_size(solid_objects); i++) {
+    if (place_meeting(x, y + vsp, solid_objects[| i])) {
+        // How ever long coyote time is
+        if (vsp > 0) can_jump = coyote_time;
+        while (abs(vsp) > 0.1) {
+            vsp *= 0.5;
+            if (!place_meeting(x, y + vsp, solid_objects[| i])) y += vsp;
+        }
+        vsp = 0;
+    }
 }
 
 y += vsp;
