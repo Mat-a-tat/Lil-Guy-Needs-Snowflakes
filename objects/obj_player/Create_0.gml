@@ -6,9 +6,10 @@ vsp = 0;
 hsp_walk = .5;  
 vsp_jump = -1.5;
 can_jump = 0;
+// how many frames we can be off a platform before we fall
 coyote_time = 5;
 size_mod = 1;
-global.health = 100;
+global.health = 3;
 
 // now to our solid objects
 

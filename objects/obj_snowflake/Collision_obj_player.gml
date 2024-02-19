@@ -8,7 +8,7 @@ shake = 12;
 
 //increase health and snowflake count
 global.snowflake += 1
-global.health += 10
+global.health += 1
 show_debug_message("Snowflakes {0}", global.snowflake);
 instance_destroy()
 

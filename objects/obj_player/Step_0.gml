@@ -6,6 +6,8 @@ var _keyjump = keyboard_check(vk_up) or keyboard_check(ord("W"));
 hsp = (_keyright - _keyleft) * hsp_walk;
 vsp += grav;
 
+//todo, size changer
+
 //Jump checker
 if (can_jump --> 0) and (_keyjump)
 {
@@ -13,8 +15,7 @@ if (can_jump --> 0) and (_keyjump)
 	can_jump = 0;
 }
 
-// Collision
-// Horizontal Movement
+// Horizontal collision
 var i;
 for (i = 0; i < ds_list_size(solid_objects); i++) {
     if (place_meeting(x + hsp, y, solid_objects[| i])) {
@@ -27,7 +28,7 @@ for (i = 0; i < ds_list_size(solid_objects); i++) {
 }
 x += hsp;
 
-// Vertical Movement
+// Vertical colision
 for (i = 0; i < ds_list_size(solid_objects); i++) {
     if (place_meeting(x, y + vsp, solid_objects[| i])) {
         // How ever long coyote time is in create

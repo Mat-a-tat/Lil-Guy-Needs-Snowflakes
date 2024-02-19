@@ -42,8 +42,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Nokia_3310_Jam_Project",
-    "path": "Nokia_3310_Jam_Project.yyp",
+    "name": "Player",
+    "path": "folders/Sprites/General/Player.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
