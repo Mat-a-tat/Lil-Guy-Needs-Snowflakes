@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_big",
-    "path": "sprites/spr_player_big/spr_player_big.yy",
+    "name": "spr_player_big_old",
+    "path": "sprites/spr_player_big_old/spr_player_big_old.yy",
   },
   "spriteMaskId": null,
   "visible": true,

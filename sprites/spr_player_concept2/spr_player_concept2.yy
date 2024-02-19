@@ -36,8 +36,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Player",
-    "path": "folders/Sprites/General/Player.yy",
+    "name": "Archieve",
+    "path": "folders/Sprites/Archieve.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

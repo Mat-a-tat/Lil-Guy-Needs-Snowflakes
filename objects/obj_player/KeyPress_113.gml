@@ -1,3 +1,3 @@
 
-sprite_index = spr_player_med
+sprite_index = spr_player_med_old
 
