@@ -14,6 +14,7 @@
     {"name":"Player","order":14,"path":"folders/Sprites/General/Player.yy",},
     {"name":"UI","order":3,"path":"folders/Sprites/UI.yy",},
     {"name":"Water","order":1,"path":"folders/Sprites/Water.yy",},
+    {"name":"player_animation","order":9,"path":"folders/Sprites/General/Player/player_animation.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_end","order":1,"path":"sprites/spr_end/spr_end.yy",},
@@ -21,7 +22,9 @@
     {"name":"rm_title","order":2,"path":"rooms/rm_title/rm_title.yy",},
     {"name":"spr_font_light","order":4,"path":"sprites/spr_font_light/spr_font_light.yy",},
     {"name":"obj_tut_text","order":3,"path":"objects/obj_tut_text/obj_tut_text.yy",},
+    {"name":"spr_player_idle2","order":1,"path":"sprites/spr_player_idle2/spr_player_idle2.yy",},
     {"name":"spr_player_concept3","order":4,"path":"sprites/spr_player_concept3/spr_player_concept3.yy",},
+    {"name":"spr_player_walk","order":2,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
     {"name":"obj_level_init","order":1,"path":"objects/obj_level_init/obj_level_init.yy",},
     {"name":"spr_color_base4","order":3,"path":"sprites/spr_color_base4/spr_color_base4.yy",},
     {"name":"obj_exit","order":3,"path":"objects/obj_exit/obj_exit.yy",},
