@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "General",
-    "path": "folders/Sprites/General.yy",
+    "name": "Enviorment",
+    "path": "folders/Sprites/General/Enviorment.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

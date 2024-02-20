@@ -28,7 +28,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Sprites/General/Player.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"player_animation","folderPath":"folders/Sprites/General/Player/player_animation.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"UI","folderPath":"folders/Sprites/UI.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Water","folderPath":"folders/Sprites/Water.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enviorment","folderPath":"folders/Sprites/General/Enviorment.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"spr_font_dark.png","CopyToMask":-1,"filePath":"datafiles/og_sprite_strip",},
@@ -54,7 +54,6 @@
     {"id":{"name":"spr_player_big_walk","path":"sprites/spr_player_big_walk/spr_player_big_walk.yy",},},
     {"id":{"name":"obj_level_init","path":"objects/obj_level_init/obj_level_init.yy",},},
     {"id":{"name":"sndSmash","path":"sounds/sndSmash/sndSmash.yy",},},
-    {"id":{"name":"spr_color_base4","path":"sprites/spr_color_base4/spr_color_base4.yy",},},
     {"id":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},},
     {"id":{"name":"spr_font_tut1","path":"sprites/spr_font_tut1/spr_font_tut1.yy",},},
     {"id":{"name":"sndIntro","path":"sounds/sndIntro/sndIntro.yy",},},
