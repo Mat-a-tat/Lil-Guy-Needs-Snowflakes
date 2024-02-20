@@ -52,3 +52,7 @@ if (y > 100)
 
 //show_debug_message("Y Cordinate {0}", y);
 //show_debug_message("Health {0}", global.health);
+
+// show_debug_message(global.health);
+// Test for adjusting player size
+player_size();

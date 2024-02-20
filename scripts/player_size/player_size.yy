@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "AmayasTest",
+  "name": "player_size",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
