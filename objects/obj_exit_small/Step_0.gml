@@ -20,6 +20,5 @@ else
 	if global.snowflake == 1
 	{
 		sprite_index = spr_door_open_small
-	
+	}
 }
-

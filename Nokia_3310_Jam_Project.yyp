@@ -17,6 +17,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enviorment","folderPath":"folders/Objects/Enviorment.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Exits","folderPath":"folders/Objects/Enviorment/Exits.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Systems","folderPath":"folders/Objects/Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"UI","folderPath":"folders/Objects/UI.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Options","folderPath":"folders/Options.yy",},
@@ -32,7 +33,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Sprites/General/Player.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"player_animation","folderPath":"folders/Sprites/General/Player/player_animation.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"UI","folderPath":"folders/Sprites/UI.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Exits","folderPath":"folders/Objects/Enviorment/Exits.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"spr_font_dark.png","CopyToMask":-1,"filePath":"datafiles/og_sprite_strip",},

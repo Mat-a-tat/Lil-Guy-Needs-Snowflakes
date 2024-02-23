@@ -4,6 +4,7 @@
     {"name":"Fonts","order":8,"path":"folders/Fonts.yy",},
     {"name":"Objects","order":10,"path":"folders/Objects.yy",},
     {"name":"Enviorment","order":12,"path":"folders/Objects/Enviorment.yy",},
+    {"name":"Exits","order":7,"path":"folders/Objects/Enviorment/Exits.yy",},
     {"name":"Systems","order":11,"path":"folders/Objects/Systems.yy",},
     {"name":"UI","order":6,"path":"folders/Objects/UI.yy",},
     {"name":"Options","order":14,"path":"folders/Options.yy",},
@@ -16,7 +17,6 @@
     {"name":"Player","order":7,"path":"folders/Sprites/General/Player.yy",},
     {"name":"player_animation","order":3,"path":"folders/Sprites/General/Player/player_animation.yy",},
     {"name":"UI","order":3,"path":"folders/Sprites/UI.yy",},
-    {"name":"Exits","order":7,"path":"folders/Objects/Enviorment/Exits.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_end","order":1,"path":"sprites/spr_end/spr_end.yy",},
