@@ -34,12 +34,14 @@
     {"name":"obj_exit","order":3,"path":"objects/obj_exit/obj_exit.yy",},
     {"name":"spr_font_tut1","order":6,"path":"sprites/spr_font_tut1/spr_font_tut1.yy",},
     {"name":"rm_level3","order":5,"path":"rooms/rm_level3/rm_level3.yy",},
-    {"name":"spr_font_tut3","order":8,"path":"sprites/spr_font_tut3/spr_font_tut3.yy",},
+  <<<<<<< Cleanup_Branch
+      {"name":"spr_font_tut3","order":8,"path":"sprites/spr_font_tut3/spr_font_tut3.yy",},
+  =======
+  >>>>>>> main
     {"name":"sndIntro","order":1,"path":"sounds/sndIntro/sndIntro.yy",},
     {"name":"spr_play_button","order":2,"path":"sprites/spr_play_button/spr_play_button.yy",},
     {"name":"obj_water","order":1,"path":"objects/obj_water/obj_water.yy",},
-    {"name":"obj_tut_text3","order":4,"path":"objects/obj_tut_text3/obj_tut_text3.yy",},
-    {"name":"set_player_size","order":5,"path":"scripts/set_player_size/set_player_size.yy",},
+    {"name":"player_size","order":5,"path":"scripts/player_size/player_size.yy",},
     {"name":"obj_snowflake","order":9,"path":"objects/obj_snowflake/obj_snowflake.yy",},
     {"name":"macros","order":1,"path":"scripts/macros/macros.yy",},
     {"name":"spr_player_med_old","order":2,"path":"sprites/spr_player_med_old/spr_player_med_old.yy",},
