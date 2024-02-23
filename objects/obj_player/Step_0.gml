@@ -1,3 +1,18 @@
+/// @description Core Mechanics
+#region Size Jump Modifier
+
+if sprite_index == spr_player_small
+{
+	size_mod = .7
+}
+if sprite_index == spr_player_small
+{
+	size_mod = .5
+}
+
+#endregion 
+
+#region Basic Movement
 var _keyleft = keyboard_check(vk_left) or keyboard_check(ord("A"));
 var _keyright = keyboard_check(vk_right) or keyboard_check(ord("D"));
 var _keyjump = keyboard_check(vk_up) or keyboard_check(ord("W"));
@@ -6,8 +21,6 @@ var _keyjump = keyboard_check(vk_up) or keyboard_check(ord("W"));
 hsp = (_keyright - _keyleft) * hsp_walk;
 vsp += grav;
 
-//todo, size changer
-
 //Jump checker
 if (can_jump --> 0) and (_keyjump)
 {
@@ -15,6 +28,9 @@ if (can_jump --> 0) and (_keyjump)
 	can_jump = 0;
 }
 
+#endregion
+
+#region Collision
 // Horizontal collision
 var i;
 for (i = 0; i < ds_list_size(solid_objects); i++) {
@@ -42,8 +58,9 @@ for (i = 0; i < ds_list_size(solid_objects); i++) {
         vsp = 0;
     }
 }
-
 y += vsp;
+
+#endregion
 
 if (y > 100)
 {
@@ -55,4 +72,4 @@ if (y > 100)
 
 // show_debug_message(global.health);
 // Test for adjusting player size
-player_size();
+set_player_size()

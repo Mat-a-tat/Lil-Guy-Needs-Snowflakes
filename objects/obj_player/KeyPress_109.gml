@@ -1,4 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Decrease Health
+
 
 global.health = global.health - 1;

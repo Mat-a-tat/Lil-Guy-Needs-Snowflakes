@@ -66,13 +66,7 @@
     {"id":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},},
     {"id":{"name":"spr_font_tut1","path":"sprites/spr_font_tut1/spr_font_tut1.yy",},},
     {"id":{"name":"rm_level3","path":"rooms/rm_level3/rm_level3.yy",},},
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-=======
     {"id":{"name":"spr_font_tut3","path":"sprites/spr_font_tut3/spr_font_tut3.yy",},},
->>>>>>> parent of e96c77f (Merge branch 'Temporary-Branch')
->>>>>>> Stashed changes
     {"id":{"name":"sndIntro","path":"sounds/sndIntro/sndIntro.yy",},},
     {"id":{"name":"spr_play_button","path":"sprites/spr_play_button/spr_play_button.yy",},},
     {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},},

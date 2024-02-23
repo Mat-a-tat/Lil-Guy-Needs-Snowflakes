@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Damage player and transform
+
 
 if place_meeting(x - freeze_range,y,obj_water_frozen)
 {
