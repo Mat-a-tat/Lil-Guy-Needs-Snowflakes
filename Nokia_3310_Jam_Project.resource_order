@@ -37,7 +37,7 @@
     {"name":"sndIntro","order":1,"path":"sounds/sndIntro/sndIntro.yy",},
     {"name":"spr_play_button","order":2,"path":"sprites/spr_play_button/spr_play_button.yy",},
     {"name":"obj_water","order":1,"path":"objects/obj_water/obj_water.yy",},
-    {"name":"player_size","order":5,"path":"scripts/player_size/player_size.yy",},
+    {"name":"set_player_size","order":5,"path":"scripts/set_player_size/set_player_size.yy",},
     {"name":"obj_snowflake","order":9,"path":"objects/obj_snowflake/obj_snowflake.yy",},
     {"name":"macros","order":1,"path":"scripts/macros/macros.yy",},
     {"name":"spr_player_med_old","order":2,"path":"sprites/spr_player_med_old/spr_player_med_old.yy",},

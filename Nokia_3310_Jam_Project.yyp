@@ -68,7 +68,7 @@
     {"id":{"name":"spr_play_button","path":"sprites/spr_play_button/spr_play_button.yy",},},
     {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},},
     {"id":{"name":"README","path":"scripts/README/README.yy",},},
-    {"id":{"name":"player_size","path":"scripts/player_size/player_size.yy",},},
+    {"id":{"name":"set_player_size","path":"scripts/set_player_size/set_player_size.yy",},},
     {"id":{"name":"obj_snowflake","path":"objects/obj_snowflake/obj_snowflake.yy",},},
     {"id":{"name":"macros","path":"scripts/macros/macros.yy",},},
     {"id":{"name":"spr_player_med_old","path":"sprites/spr_player_med_old/spr_player_med_old.yy",},},
