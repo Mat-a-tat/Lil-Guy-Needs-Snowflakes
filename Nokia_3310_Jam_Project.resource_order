@@ -34,6 +34,10 @@
     {"name":"obj_exit","order":3,"path":"objects/obj_exit/obj_exit.yy",},
     {"name":"spr_font_tut1","order":6,"path":"sprites/spr_font_tut1/spr_font_tut1.yy",},
     {"name":"rm_level3","order":5,"path":"rooms/rm_level3/rm_level3.yy",},
+  <<<<<<< Cleanup_Branch
+      {"name":"spr_font_tut3","order":8,"path":"sprites/spr_font_tut3/spr_font_tut3.yy",},
+  =======
+  >>>>>>> main
     {"name":"sndIntro","order":1,"path":"sounds/sndIntro/sndIntro.yy",},
     {"name":"spr_play_button","order":2,"path":"sprites/spr_play_button/spr_play_button.yy",},
     {"name":"obj_water","order":1,"path":"objects/obj_water/obj_water.yy",},
