@@ -6,9 +6,7 @@
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":2242152242467054,},
   ],
   "configs": {
-    "children": [
-      {"children":[],"name":"NewConfig1",},
-    ],
+    "children": [],
     "name": "Default",
   },
   "defaultScriptType": 1,
@@ -107,7 +105,6 @@
     {"id":{"name":"obj_end","path":"objects/obj_end/obj_end.yy",},},
     {"id":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},},
-    {"id":{"name":"spr_screen_wipe","path":"sprites/spr_screen_wipe/spr_screen_wipe.yy",},},
     {"id":{"name":"spr_base","path":"sprites/spr_base/spr_base.yy",},},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},},
     {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
