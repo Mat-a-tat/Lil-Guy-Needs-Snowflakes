@@ -1,5 +1,6 @@
-//checks the current room and total snowflakes 
-// set total amount of needed snowflakes to finish a level here
+/// @description Checks snowflake amounts
+/// checks the current room and total snowflakes 
+/// set total amount of needed snowflakes to finish a level here
 
 // todo: rework using case as we get multiple rooms
 if (room == rm_level1) and (global.snowflake == 1) 

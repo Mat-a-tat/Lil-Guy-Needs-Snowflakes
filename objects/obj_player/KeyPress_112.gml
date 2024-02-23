@@ -1,6 +1,4 @@
-
-
-//debugg to force a size
+/// @description Set big sprite
 sprite_index = spr_player_big
 
 

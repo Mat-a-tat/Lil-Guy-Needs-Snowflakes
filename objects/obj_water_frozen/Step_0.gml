@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Transform touching water
 
 //the collision to .5 to see the magic happen.
 //the magic being a mess.

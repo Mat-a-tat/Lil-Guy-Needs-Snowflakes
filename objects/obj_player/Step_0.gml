@@ -1,3 +1,4 @@
+/// @description Core Mechanics
 #region Size Jump Modifier
 
 if sprite_index == spr_player_small
