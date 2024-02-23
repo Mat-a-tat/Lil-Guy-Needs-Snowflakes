@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_exit",
+  "name": "obj_exit_small",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_door_closed",
-    "path": "sprites/spr_door_closed/spr_door_closed.yy",
+    "name": "spr_door_closed_small",
+    "path": "sprites/spr_door_closed_small/spr_door_closed_small.yy",
   },
   "spriteMaskId": null,
   "visible": true,
