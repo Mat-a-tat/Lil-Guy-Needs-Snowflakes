@@ -86,6 +86,7 @@
     {"id":{"name":"spr_water_frozen","path":"sprites/spr_water_frozen/spr_water_frozen.yy",},},
     {"id":{"name":"spr_snowflake","path":"sprites/spr_snowflake/spr_snowflake.yy",},},
     {"id":{"name":"spr_snowflake_seq","path":"sprites/spr_snowflake_seq/spr_snowflake_seq.yy",},},
+    {"id":{"name":"spr_player_big_jump","path":"sprites/spr_player_big_jump/spr_player_big_jump.yy",},},
     {"id":{"name":"spr_door_closed_med","path":"sprites/spr_door_closed_med/spr_door_closed_med.yy",},},
     {"id":{"name":"obj_play_button","path":"objects/obj_play_button/obj_play_button.yy",},},
     {"id":{"name":"nokia_play_sound","path":"scripts/nokia_play_sound/nokia_play_sound.yy",},},

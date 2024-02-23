@@ -1,7 +1,7 @@
 /// @description Core Mechanics
 #region Size Jump Modifier
 
-if sprite_index == spr_player_small
+if sprite_index == spr_player_med
 {
 	size_mod = .7
 }
@@ -16,6 +16,8 @@ if sprite_index == spr_player_small
 var _keyleft = keyboard_check(vk_left) or keyboard_check(ord("A"));
 var _keyright = keyboard_check(vk_right) or keyboard_check(ord("D"));
 var _keyjump = keyboard_check(vk_up) or keyboard_check(ord("W"));
+
+
 
 //horizontal and vertical speeds
 hsp = (_keyright - _keyleft) * hsp_walk;
@@ -67,9 +69,25 @@ if (y > 100)
 	global.health = 0;
 }
 
+/* Jump Animation
+if (keyboard_check(vk_up) or keyboard_check(ord("W")))
+{
+	sprite_index = spr_player_big_jump
+}
+
+//Moving Animation
+if (keyboard_check(vk_left) or keyboard_check(ord("A")) || keyboard_check(vk_right) or keyboard_check(ord("D")))
+{
+	sprite_index = spr_player_big_walk
+}
+
+// Idle Animation
+if !(keyboard_check(vk_left) or keyboard_check(ord("A")) || keyboard_check(vk_right) or keyboard_check(ord("D")) || keyboard_check(vk_up) or keyboard_check(ord("W")))
+{
+	sprite_index = spr_player_big
+}
+*/
+
 //show_debug_message("Y Cordinate {0}", y);
 //show_debug_message("Health {0}", global.health);
 
-// show_debug_message(global.health);
-// Test for adjusting player size
-set_player_size()

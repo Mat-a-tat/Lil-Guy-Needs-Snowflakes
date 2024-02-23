@@ -12,6 +12,10 @@ if global.health != global.max_health
 {
 	global.health += 1;
 }
+
+// Test for adjusting player size
+set_player_size()
+
 show_debug_message("Snowflakes {0}", global.snowflake);
 instance_destroy()
 

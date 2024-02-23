@@ -52,6 +52,7 @@
     {"name":"spr_water_frozen","order":8,"path":"sprites/spr_water_frozen/spr_water_frozen.yy",},
     {"name":"spr_snowflake","order":3,"path":"sprites/spr_snowflake/spr_snowflake.yy",},
     {"name":"spr_snowflake_seq","order":1,"path":"sprites/spr_snowflake_seq/spr_snowflake_seq.yy",},
+    {"name":"spr_player_big_jump","order":3,"path":"sprites/spr_player_big_jump/spr_player_big_jump.yy",},
     {"name":"spr_door_closed_med","order":15,"path":"sprites/spr_door_closed_med/spr_door_closed_med.yy",},
     {"name":"obj_play_button","order":1,"path":"objects/obj_play_button/obj_play_button.yy",},
     {"name":"nokia_play_sound","order":3,"path":"scripts/nokia_play_sound/nokia_play_sound.yy",},
