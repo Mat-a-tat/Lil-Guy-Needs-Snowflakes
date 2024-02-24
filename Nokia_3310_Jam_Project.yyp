@@ -125,8 +125,8 @@
     {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"roomId":{"name":"rm_level3","path":"rooms/rm_level3/rm_level3.yy",},},
-    {"roomId":{"name":"rm_credit","path":"rooms/rm_credit/rm_credit.yy",},},
     {"roomId":{"name":"rm_level4","path":"rooms/rm_level4/rm_level4.yy",},},
+    {"roomId":{"name":"rm_credit","path":"rooms/rm_credit/rm_credit.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
