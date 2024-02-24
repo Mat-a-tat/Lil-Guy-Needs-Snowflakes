@@ -3,11 +3,15 @@
 
 if sprite_index == spr_player_small
 {
+	size_mod = .5
+}
+if sprite_index == spr_player_med
+{
 	size_mod = .7
 }
-if sprite_index == spr_player_small
+else
 {
-	size_mod = .5
+	size_mod = 1
 }
 
 #endregion 
