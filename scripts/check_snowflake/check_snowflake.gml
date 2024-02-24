@@ -7,6 +7,10 @@ if (room == rm_level3) and (global.snowflake == 2)
 {
 	global.open = true
 }
+if (room == rm_level5) and (global.snowflake == 2) 
+{
+	global.open = true
+}
 
 //backup statement in case we add a room and don't add it to the above list
 else 

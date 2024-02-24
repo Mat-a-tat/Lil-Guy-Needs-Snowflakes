@@ -3,11 +3,11 @@
 
 if sprite_index == spr_player_small
 {
-	size_mod = .5
+	size_mod = .2
 }
 if sprite_index == spr_player_med
 {
-	size_mod = .7
+	size_mod = .9
 }
 else
 {

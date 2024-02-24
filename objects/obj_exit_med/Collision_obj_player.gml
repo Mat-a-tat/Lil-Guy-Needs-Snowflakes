@@ -4,4 +4,9 @@ if (sprite_index == spr_door_open_med) && (obj_player.sprite_index == spr_player
 {
 	room_goto_next()
 }
+if (sprite_index == spr_door_open_med) && (obj_player.sprite_index == spr_player_small)
+{
+	room_goto_next()
+}
+
 

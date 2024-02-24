@@ -1,4 +1,4 @@
-nokia_play_sound(sndIntro);
+//nokia_play_sound(sndIntro);
 
 global.health = 3;
 global.max_health = 3;
