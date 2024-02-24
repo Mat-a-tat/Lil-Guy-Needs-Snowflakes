@@ -1,6 +1,16 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Exits","order":1,"path":"folders/Sprites/General/Enviorment/Exits.yy",},
+  ],
   "ResourceOrderSettings": [
+    {"name":"spr_door_open_med","order":4,"path":"sprites/spr_door_open_med/spr_door_open_med.yy",},
     {"name":"set_player_size","order":1,"path":"scripts/set_player_size/set_player_size.yy",},
+    {"name":"spr_door_closed_small","order":3,"path":"sprites/spr_door_closed_small/spr_door_closed_small.yy",},
+    {"name":"obj_exit_small","order":2,"path":"objects/obj_exit_small/obj_exit_small.yy",},
+    {"name":"spr_door_open_small","order":5,"path":"sprites/spr_door_open_small/spr_door_open_small.yy",},
+    {"name":"spr_door_closed_med","order":2,"path":"sprites/spr_door_closed_med/spr_door_closed_med.yy",},
+    {"name":"rm_level4","order":1,"path":"rooms/rm_level4/rm_level4.yy",},
+    {"name":"spr_door_open_big","order":1,"path":"sprites/spr_door_open_big/spr_door_open_big.yy",},
+    {"name":"obj_exit_med","order":1,"path":"objects/obj_exit_med/obj_exit_med.yy",},
   ],
 }
