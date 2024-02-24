@@ -11,6 +11,7 @@
     {"name":"spr_door_open_small","order":5,"path":"sprites/spr_door_open_small/spr_door_open_small.yy",},
     {"name":"spr_door_closed_med","order":2,"path":"sprites/spr_door_closed_med/spr_door_closed_med.yy",},
     {"name":"rm_level4","order":1,"path":"rooms/rm_level4/rm_level4.yy",},
+    {"name":"check_snowflake","order":2,"path":"scripts/check_snowflake/check_snowflake.yy",},
     {"name":"obj_exit_med","order":1,"path":"objects/obj_exit_med/obj_exit_med.yy",},
     {"name":"spr_door_closed_big","order":7,"path":"sprites/spr_door_closed_big/spr_door_closed_big.yy",},
   ],

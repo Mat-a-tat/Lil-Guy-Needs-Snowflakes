@@ -96,6 +96,7 @@
     {"id":{"name":"spr_door_closed_med","path":"sprites/spr_door_closed_med/spr_door_closed_med.yy",},},
     {"id":{"name":"spr_player_big_old","path":"sprites/spr_player_big_old/spr_player_big_old.yy",},},
     {"id":{"name":"rm_level4","path":"rooms/rm_level4/rm_level4.yy",},},
+    {"id":{"name":"check_snowflake","path":"scripts/check_snowflake/check_snowflake.yy",},},
     {"id":{"name":"obj_example","path":"objects/obj_example/obj_example.yy",},},
     {"id":{"name":"spr_vent_hot","path":"sprites/spr_vent_hot/spr_vent_hot.yy",},},
     {"id":{"name":"spr_backgroun_base","path":"sprites/spr_backgroun_base/spr_backgroun_base.yy",},},
