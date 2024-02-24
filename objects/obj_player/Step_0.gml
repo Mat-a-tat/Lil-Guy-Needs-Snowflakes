@@ -28,6 +28,7 @@ vsp += grav;
 //Jump checker
 if (can_jump --> 0) and (_keyjump)
 {
+	nokia_play_sound(snd_jump)
 	vsp = vsp_jump * size_mod;
 	can_jump = 0;
 }

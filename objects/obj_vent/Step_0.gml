@@ -10,10 +10,12 @@ if image_xscale == 2
 if place_meeting(x + freeze_range, y,obj_player)
 {
 	instance_change(obj_vent_right_frozen,true)
+	nokia_play_sound(snd_hurt);
 	global.health += freeze_cost;
 }
 if place_meeting(x - freeze_range, y,obj_player)
 {
 	instance_change(obj_vent_left_frozen,true)
+	nokia_play_sound(snd_hurt);
 	global.health += freeze_cost;
 }

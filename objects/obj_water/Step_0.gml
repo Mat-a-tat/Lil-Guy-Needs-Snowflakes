@@ -11,6 +11,7 @@ if place_meeting(x + freeze_range,y,obj_water_frozen)
 }
 if place_meeting(x, y - 1.5,obj_player)
 {
+	nokia_play_sound(snd_hurt)
 	global.health += freeze_cost;
 	instance_change(obj_water_frozen,true)
 }

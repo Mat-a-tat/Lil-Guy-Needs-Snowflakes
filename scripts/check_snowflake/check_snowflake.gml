@@ -3,22 +3,27 @@
 function check_snowflake(){
 
 // todo: rework using case as we get multiple rooms
+if (room == rm_level1) and (global.snowflake == 1) 
+{
+	global.open = true;
+}
+if (room == rm_level2) and (global.snowflake == 1) 
+{
+	global.open = true;
+}
 if (room == rm_level3) and (global.snowflake == 2) 
 {
-	global.open = true
+	global.open = true;
+}
+if (room == rm_level4) and (global.snowflake == 1) 
+{
+	global.open = true;
 }
 if (room == rm_level5) and (global.snowflake == 2) 
 {
-	global.open = true
+	global.open = true;
 }
 
 //backup statement in case we add a room and don't add it to the above list
-else 
-{
-	if global.snowflake == 1
-	{
-		global.open = true
-	}
-	
-}
+
 }
