@@ -9,3 +9,8 @@ if (global.health == 0)
 	instance_create_depth(0, 0, - 100, obj_screen_wiper);
 }
 
+if keyboard_check(ord("R"))
+{
+	global.open = false;
+	global.snowflake = 0;
+}

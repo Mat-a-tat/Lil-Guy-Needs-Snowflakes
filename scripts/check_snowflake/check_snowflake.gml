@@ -3,6 +3,7 @@ function check_snowflake() {
         case rm_level3:
         case rm_level5:
 		case rm_level9:
+		case rm_level4:
             if (global.snowflake == 2) {
                 global.open = true;
             }
