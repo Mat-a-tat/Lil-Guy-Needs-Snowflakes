@@ -2,6 +2,7 @@
 // You can write your code in this editor
 if (sprite_index == spr_door_open_small) && (obj_player.sprite_index == spr_player_small)
 {
+	nokia_play_sound(odd2)
 	room_goto_next()
 }
 

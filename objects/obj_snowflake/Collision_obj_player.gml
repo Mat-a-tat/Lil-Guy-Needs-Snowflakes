@@ -17,7 +17,7 @@ if global.health != global.max_health
 {
 	global.health += 1;
 }
-show_debug_message("Snowflakes {0}", global.snowflake);
+// show_debug_message("Snowflakes {0}", global.snowflake);
 
 
 
