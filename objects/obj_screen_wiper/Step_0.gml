@@ -1,7 +1,7 @@
 /// @description After animation plays, reset room. 
 timer ++;
 
-if timer == 60  {
+if timer == 32  {
 	room_goto(room);
 }
 
