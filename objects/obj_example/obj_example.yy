@@ -30,10 +30,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_player_big_old",
-    "path": "sprites/spr_player_big_old/spr_player_big_old.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
