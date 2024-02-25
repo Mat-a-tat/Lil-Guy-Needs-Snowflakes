@@ -2,7 +2,7 @@
 // You can write your code in this editor
 timer++;
 
-if (keyboard_check(ord("R")) && (room != rm_title) && !(instance_exists(obj_screen_wiper)))
+if (keyboard_check(ord("R")) && (room != rm_title) && (room != rm_credit) && !(instance_exists(obj_screen_wiper)))
 {
 	instance_create_depth(0, 0, - 100, obj_screen_wiper);
 	global.open = false;
