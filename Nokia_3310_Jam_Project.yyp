@@ -105,6 +105,7 @@
     {"id":{"name":"nokia_play_sound","path":"scripts/nokia_play_sound/nokia_play_sound.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"spr_font_dark","path":"sprites/spr_font_dark/spr_font_dark.yy",},},
+    {"id":{"name":"spr_title_bg","path":"sprites/spr_title_bg/spr_title_bg.yy",},},
     {"id":{"name":"spr_font_tut1","path":"sprites/spr_font_tut1/spr_font_tut1.yy",},},
     {"id":{"name":"hit4","path":"sounds/hit4/hit4.yy",},},
     {"id":{"name":"spr_whipe","path":"sprites/spr_whipe/spr_whipe.yy",},},

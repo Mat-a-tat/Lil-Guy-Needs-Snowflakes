@@ -44,6 +44,7 @@
     {"name":"hit5","order":34,"path":"sounds/hit5/hit5.yy",},
     {"name":"odd1","order":3,"path":"sounds/odd1/odd1.yy",},
     {"name":"spr_font_dark","order":2,"path":"sprites/spr_font_dark/spr_font_dark.yy",},
+    {"name":"spr_title_bg","order":10,"path":"sprites/spr_title_bg/spr_title_bg.yy",},
     {"name":"spr_font_tut1","order":8,"path":"sprites/spr_font_tut1/spr_font_tut1.yy",},
     {"name":"hit4","order":33,"path":"sounds/hit4/hit4.yy",},
     {"name":"spr_whipe","order":9,"path":"sprites/spr_whipe/spr_whipe.yy",},

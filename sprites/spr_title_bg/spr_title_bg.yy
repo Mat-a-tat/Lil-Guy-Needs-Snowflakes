@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_intro_bg",
+  "name": "spr_title_bg",
   "bbox_bottom": 47,
   "bbox_left": 0,
   "bbox_right": 83,
@@ -20,6 +20,7 @@
   "height": 48,
   "HTile": false,
   "layers": [
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9c2239b6-8e46-4b22-b8f3-2dc45e05c662","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"42ed5fea-6175-497a-971e-c4b4cd53c7cd","blendMode":0,"displayName":"background","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
@@ -32,7 +33,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_intro_bg",
+    "name": "spr_title_bg",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +55,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"578e8b75-44b7-4dc8-9eb2-32eeffae91be","path":"sprites/spr_intro_bg/spr_intro_bg.yy",},},},"Disabled":false,"id":"8979c1a6-e3a3-4358-85a2-ad9fd262bfae","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"578e8b75-44b7-4dc8-9eb2-32eeffae91be","path":"sprites/spr_title_bg/spr_title_bg.yy",},},},"Disabled":false,"id":"58da7d6b-ac56-4705-a503-ac0f245e9875","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
