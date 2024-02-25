@@ -51,7 +51,6 @@
     {"id":{"name":"spr_end","path":"sprites/spr_end/spr_end.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
-    {"id":{"name":"rm_level6","path":"rooms/rm_level6/rm_level6.yy",},},
     {"id":{"name":"spr_door_open_big","path":"sprites/spr_door_open_big/spr_door_open_big.yy",},},
     {"id":{"name":"spr_door_open_med","path":"sprites/spr_door_open_med/spr_door_open_med.yy",},},
     {"id":{"name":"spr_font_light","path":"sprites/spr_font_light/spr_font_light.yy",},},
@@ -178,7 +177,6 @@
     {"roomId":{"name":"rm_level8","path":"rooms/rm_level8/rm_level8.yy",},},
     {"roomId":{"name":"rm_level9","path":"rooms/rm_level9/rm_level9.yy",},},
     {"roomId":{"name":"rm_credit","path":"rooms/rm_credit/rm_credit.yy",},},
-    {"roomId":{"name":"rm_level6","path":"rooms/rm_level6/rm_level6.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [

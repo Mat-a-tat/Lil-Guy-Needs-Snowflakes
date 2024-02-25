@@ -8,7 +8,6 @@
     {"name":"odd3","order":5,"path":"sounds/odd3/odd3.yy",},
     {"name":"obj_cube","order":8,"path":"objects/obj_cube/obj_cube.yy",},
     {"name":"obj_wall","order":5,"path":"objects/obj_wall/obj_wall.yy",},
-    {"name":"rm_level6","order":3,"path":"rooms/rm_level6/rm_level6.yy",},
     {"name":"spr_door_open_big","order":6,"path":"sprites/spr_door_open_big/spr_door_open_big.yy",},
     {"name":"spr_door_open_med","order":4,"path":"sprites/spr_door_open_med/spr_door_open_med.yy",},
     {"name":"rm_level9","order":5,"path":"rooms/rm_level9/rm_level9.yy",},
