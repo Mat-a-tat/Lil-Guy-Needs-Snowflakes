@@ -67,13 +67,25 @@ y += vsp;
 
 #endregion
 
+#region WIP Landing Particle Effect
+
+if effect_ready == true &&  vsp == 0
+{
+	draw_sprite(spr_snowflake, 1, x, y);
+	effect_ready = false;
+}
+
+if vsp != 0
+{
+	effect_ready = true;
+
+
+#endregion
+
 if (y > 100)
 {
 	global.health = 0;
 }
-
-//show_debug_message("Y Cordinate {0}", y);
-//show_debug_message("Health {0}", global.health);
 
 
 // Test for adjusting player size

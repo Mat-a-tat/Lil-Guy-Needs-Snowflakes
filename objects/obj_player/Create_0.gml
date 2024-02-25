@@ -9,6 +9,7 @@ hsp_walk = .5;
 vsp_jump = -1.5;
 can_jump = 0;
 // how many frames we can be off a platform before we fall
+effect_ready = false;
 coyote_time = 5;
 size_mod = 1;
 
