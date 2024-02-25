@@ -1,4 +1,4 @@
-tick = 0; // game's frames
+timer = 0; // game's frames
 global.health = 3;
 global.snowflake = 0; 
 global.level += 1
