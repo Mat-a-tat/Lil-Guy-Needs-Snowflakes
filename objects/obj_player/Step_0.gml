@@ -78,7 +78,7 @@ if effect_ready == true &&  vsp == 0
 if vsp != 0
 {
 	effect_ready = true;
-
+}
 
 #endregion
 
@@ -86,7 +86,6 @@ if (y > 100)
 {
 	global.health = 0;
 }
-
 
 // Test for adjusting player size
 set_player_size()

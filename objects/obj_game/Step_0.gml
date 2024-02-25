@@ -13,6 +13,8 @@ if (keyboard_check(ord("R")) && (room != rm_title) && (room != rm_credit) && !(i
 //room auto-resets on dying
 if (global.health == 0)
 {
+	global.open = false;
+	global.snowflake = 0;
 	instance_destroy(obj_player)
 	nokia_play_sound(snd_restart)
 	room_goto(room)
