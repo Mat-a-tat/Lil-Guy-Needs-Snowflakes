@@ -119,7 +119,6 @@
     {"id":{"name":"rm_level7","path":"rooms/rm_level7/rm_level7.yy",},},
     {"id":{"name":"hit3","path":"sounds/hit3/hit3.yy",},},
     {"id":{"name":"spr_font_tut3","path":"sprites/spr_font_tut3/spr_font_tut3.yy",},},
-    {"id":{"name":"obj_example","path":"objects/obj_example/obj_example.yy",},},
     {"id":{"name":"spr_vent_hot","path":"sprites/spr_vent_hot/spr_vent_hot.yy",},},
     {"id":{"name":"spr_backgroun_base","path":"sprites/spr_backgroun_base/spr_backgroun_base.yy",},},
     {"id":{"name":"blip13","path":"sounds/blip13/blip13.yy",},},
