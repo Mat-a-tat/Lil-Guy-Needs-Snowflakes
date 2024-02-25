@@ -11,6 +11,14 @@ function init() {
 	window_set_size(GAMEWIDTH * _upscale, GAMEHEIGHT * _upscale);
 
 
+	if gpu_get_texfilter()
+	{
+	    gpu_set_texfilter(false);
+	}
+	else
+	{
+	    gpu_set_texfilter(true);
+	}
 
 	room_goto_next(); // leave init room
 
